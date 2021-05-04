@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding: 0;
+	margin: 0;
+}
+.nav{
+	background-color: black !important;
+}
+.navbar-brand img{
+	width: 100px;
+}
+.banner{
+	background-image: url("image/u2_state0.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	background-blend-mode: overlay;
+	height: 188vh;
+	background-size: cover;
+}
+#navbarTogglerDemo03 ul li a{
+	color: aliceblue;
+}
+
+.row{
+	padding: 55px;
+}
+.tieude{
+	font-size: 20px !important; 
+	color: aliceblue;
+	margin-left: 200px;
+	padding-top: 10%;
+}
+.font-weight-light{
+	font-size: 25px;
+	color: #6A6868
+}
+.icon a{
+	font-size: 60px;
+	padding: 27px;
+}
+#social{
+	background:#F3F3F3;
+}
+.text h6{
+	font-size: 18px;
+}
